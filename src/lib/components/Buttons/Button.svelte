@@ -1,18 +1,6 @@
 <script lang="ts">
 	export let href: string = '';
 
-	// Icon position
-	export let left: boolean = false;
-	let iconPosition: string;
-
-	let horizontalPadding: string;
-
-	if (left) {
-		horizontalPadding = 'pl-3 pr-4';
-	} else {
-		horizontalPadding = 'pr-3 pl-4';
-	}
-
 	// Button sizes
 	/**
 	 * @type {'small' | 'medium' | 'large' | 'extra-large' }
@@ -33,7 +21,7 @@
 	}
 </script>
 
-<a class={` btn ${buttonType} ${iconPosition}`} {href} target="_blank" rel="noreferrer">
+<a class={` btn ${buttonType}`} {href} target="_blank" rel="noreferrer">
 	<div class="flex items-center gap-2">
 		<slot />
 	</div>
