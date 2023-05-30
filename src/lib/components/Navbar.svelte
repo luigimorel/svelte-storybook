@@ -9,7 +9,7 @@
 			<span class="self-center text-2xl font-semibold whitespace-nowrap"> Flowbite </span>
 		</a>
 		<div class="flex md:order-2">
-			<Button type="large" left href="google.com">Get Started</Button>
+			<Button type="large" href="https://google.com">Get Started</Button>
 
 			<button
 				data-collapse-toggle="navbar-cta"
