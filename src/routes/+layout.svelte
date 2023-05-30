@@ -6,6 +6,7 @@
 	import './../styles/app.css';
 </script>
 
+<slot />
 <div class=" bg-red-400">
 	<Navbar />
 	<Hero />
