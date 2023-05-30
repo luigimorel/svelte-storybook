@@ -32,3 +32,8 @@ $ npm run dev -- --open
 ```bash
 $ npm run storybook
 ```
+
+## TO DO
+
+- [] - Add documentation for the `Modal` component
+- [] - Webpage responsiveness and navbar dropdown
