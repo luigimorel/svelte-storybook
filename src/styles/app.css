@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.btn {
+		@apply rounded-sm text-white font-medium  inline-flex py-2.5 justify-center text-center  items-center mr-2 mb-2 leading-6;
+	}
+}
