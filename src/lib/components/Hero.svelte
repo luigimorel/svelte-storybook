@@ -14,7 +14,7 @@
 			drive economic growth.
 		</p>
 		<div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-			<Button type="extra-large" href="google.com">Watch Video <Icon symbol="video" /></Button>
+			<Button type="extra-large" href="https://google.com">Watch Video <Icon symbol="video" /></Button>
 		</div>
 
 		<div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
